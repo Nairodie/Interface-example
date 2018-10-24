@@ -1,0 +1,6 @@
+C:\Users\sorahazen\source\repos\CarbonFootprint\CarbonFootprint\obj\Debug\CarbonFootprint.csproj.CoreCompileInputs.cache
+C:\Users\sorahazen\source\repos\CarbonFootprint\CarbonFootprint\bin\Debug\CarbonFootprint.exe.config
+C:\Users\sorahazen\source\repos\CarbonFootprint\CarbonFootprint\bin\Debug\CarbonFootprint.exe
+C:\Users\sorahazen\source\repos\CarbonFootprint\CarbonFootprint\bin\Debug\CarbonFootprint.pdb
+C:\Users\sorahazen\source\repos\CarbonFootprint\CarbonFootprint\obj\Debug\CarbonFootprint.exe
+C:\Users\sorahazen\source\repos\CarbonFootprint\CarbonFootprint\obj\Debug\CarbonFootprint.pdb

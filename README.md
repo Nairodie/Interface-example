@@ -1,1 +1,3 @@
-# practice-problems
+# Interface-example
+
+simple interface solution

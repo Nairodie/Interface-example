@@ -11,7 +11,7 @@ namespace CarbonFootprint
         static void Main()
         {
             //polymorphism @ work part 1            
-            ICarbonFootprint[] list = new ICarbonFootprint[3];
+            ICarbonFootprintLibrary[] list = new ICarbonFootprintLibrary[3];
 
             list[0] = new Bicycle();
             list[1] = new Building(2500);

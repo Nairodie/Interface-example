@@ -1,0 +1,9 @@
+C:\Users\Eidorian\source\repos\CarbonFootprint\CarbonFootprintLibrary\obj\Debug\netstandard2.0\CarbonFootprintLibrary.csprojAssemblyReference.cache
+C:\Users\Eidorian\source\repos\CarbonFootprint\CarbonFootprintLibrary\obj\Debug\netstandard2.0\CarbonFootprintLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Eidorian\source\repos\CarbonFootprint\CarbonFootprintLibrary\obj\Debug\netstandard2.0\CarbonFootprintLibrary.AssemblyInfoInputs.cache
+C:\Users\Eidorian\source\repos\CarbonFootprint\CarbonFootprintLibrary\obj\Debug\netstandard2.0\CarbonFootprintLibrary.AssemblyInfo.cs
+C:\Users\Eidorian\source\repos\CarbonFootprint\CarbonFootprintLibrary\bin\Debug\netstandard2.0\CarbonFootprintLibrary.deps.json
+C:\Users\Eidorian\source\repos\CarbonFootprint\CarbonFootprintLibrary\bin\Debug\netstandard2.0\CarbonFootprintLibrary.dll
+C:\Users\Eidorian\source\repos\CarbonFootprint\CarbonFootprintLibrary\bin\Debug\netstandard2.0\CarbonFootprintLibrary.pdb
+C:\Users\Eidorian\source\repos\CarbonFootprint\CarbonFootprintLibrary\obj\Debug\netstandard2.0\CarbonFootprintLibrary.dll
+C:\Users\Eidorian\source\repos\CarbonFootprint\CarbonFootprintLibrary\obj\Debug\netstandard2.0\CarbonFootprintLibrary.pdb

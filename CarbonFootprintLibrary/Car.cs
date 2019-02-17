@@ -4,7 +4,7 @@ namespace CarbonFootprintLibrary
 {
     public class Car : ICarbonFootprintLibrary
     {
-        public Car(double gallons)
+        public Car (double gallons)
         {
             Gallons = gallons;
         }
